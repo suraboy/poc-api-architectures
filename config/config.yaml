@@ -1,0 +1,12 @@
+server:
+  port: "8080"
+
+web_client:
+  soap_api:
+    endpoint: "http://localhost:59040"
+    paths:
+      user_url: "/soap/user"
+  rest_api:
+    endpoint: "http://localhost:59040"
+    paths:
+      user_url: "/rest/user"

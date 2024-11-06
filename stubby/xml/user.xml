@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userInfo>
+    <userDetail>
+        <userID>12345</userID>
+        <userName>John Doe</userName>
+        <email>johndoe@example.com</email>
+        <phoneNumber>+1234567890</phoneNumber>
+    </userDetail>
+</userInfo>

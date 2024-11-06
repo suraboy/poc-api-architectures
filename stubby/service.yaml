@@ -1,0 +1,16 @@
+-  request:
+     method: POST
+     url: /soap/user
+   response:
+     headers:
+       content-type: application/soap+xml
+     status: 200
+     file: ./xml/user.xml
+-  request:
+     method: POST
+     url: /rest/user
+   response:
+     headers:
+       content-type: application/json
+     status: 200
+     file: ./json/user.json
